@@ -18,5 +18,7 @@
 ### Команда проекта
 
 Карпов Артемий - Team Lead, Frontend Developer
+
 Жмурко Анастасия - Backend Developer
+
 Тюменцев Дмитрий - DevOps Engineer, Backend Developer
